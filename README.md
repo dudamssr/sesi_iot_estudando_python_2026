@@ -1,28 +1,26 @@
-# Estudando Python
+# Exercícios em Python
 
-## Sobre o Projeto
-Este repositório contém a resolução de exercícios práticos desenvolvidos durante as aulas de Lógica de Programação do curso Técnico em Desenvolvimento de Sistemas no SENAI.
-
-O objetivo principal é consolidar conceitos fundamentais de programação utilizando a linguagem Python.
+## Descrição
+Repositório contendo a resolução de exercícios práticos desenvolvidos durante as aulas.
 
 ---
 
-## Tecnologias e Ferramentas
-- **Linguagem:** [Python 3](https://www.python.org/)
-- **Editor de Código:** [Visual Studio Code](https://code.visualstudio.com/)
-- **Controle de Versão:** [Git](https://git-scm.com/) / [GitHub](https://github.com/)
+## Tecnologias Utilizadas
+- **Python**
+- **Visual Studio Code (VS Code)**
+- **Git e GitHub**
 
 ---
 
-## Como Executar os Exercícios
+## Como Executar o Projeto
 
 ### Pré-requisitos
-Antes de começar, você precisará ter instalado em sua máquina:
-* [Python 3.x](https://www.python.org/downloads/)
-* [VS Code](https://code.visualstudio.com/)
+- Python instalado na sua máquina
+- VS Code (ou outro editor de código de sua preferência)
 
 ### Passo a Passo
-
-1. **Clone este repositório:**
+1. Abra a pasta do projeto no VS Code.
+2. Abra o terminal integrado
+3. Execute o arquivo desejado com o comando:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   python nome_do_arquivo.py
